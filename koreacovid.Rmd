@@ -64,8 +64,13 @@ The numerical data confirms the results we concluded from the previous graphical
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
-
+After running these inferential tests, we found that the P value is 0.0009, which is far lower than 0.05 and based on these results, we can say that males are more than twice as likely to die from Covid than females.
 
 ## Conclusions
 
