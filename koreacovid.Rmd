@@ -54,6 +54,12 @@ From the previously shown two graphs, it shows that more women are getting Covid
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
 
 ## Inferential results 
 
