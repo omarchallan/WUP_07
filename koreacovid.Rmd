@@ -49,12 +49,7 @@ basicCC <- ggplot(dd2,aes(x=result,y=prcnt*100,fill=sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
-  
-
-
-
-
+From the previously shown two graphs, it shows that more women are getting Covid than men. However, more men die from Covid than women. 
 
   
 ## Numerical results
