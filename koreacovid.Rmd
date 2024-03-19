@@ -60,6 +60,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The numerical data confirms the results we concluded from the previous graphical data, which was that more women get Covid than men. However, the percentage of men who died from Covid is higher than women. 
 
 ## Inferential results 
 
