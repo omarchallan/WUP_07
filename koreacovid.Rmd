@@ -74,3 +74,6 @@ After running these inferential tests, we found that the P value is 0.0009, whic
 
 ## Conclusions
 
+Looking at this problem, we have determined that it's a categorical – categorical problem, as we are comparing two categorical Data types which are sex (Male – female) and the status of the patient which is either alive or dead. After showing the graphical data that compares males and females contracting and dying from Covid. We concluded that more females got Covid. However, more males died from Covid. This conclusion was further confirmed by the numerical data results and the inferential tests, as the P value was far lower than the standard 0.05. Therefore, we can conclude that the death rates of 
+patients is not independent from there sex. 
+
